@@ -64,6 +64,15 @@ nav a.cur {
 	color:			#fff;
 }
 
+nav a.donate {
+  background-color: #ffc439;
+  border: 1px solid #fec35a ;
+  color: #013188;
+  padding: 5px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
 p {
 	line-height:		1.6;
 	font-family:		"Droid Sans", Arial, sans-serif;
@@ -85,3 +94,4 @@ a.tel {
 	color:			inherit;
 	text-decoration:	none;
 }
+
